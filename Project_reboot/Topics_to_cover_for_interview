@@ -1,0 +1,20 @@
+C essentials
+OOP/ C++ - classes, encapsulation, polymorphism, overloading/ overriding, templates
+Algorithms - search, sort, b-trees
+Design Patterns - factory, observer, singleton etc.
+Real Time Operating Systems - primitives (semaphore, mutex), scheduling techniques, user/ kernel space
+Linux fundamentals, driver writing, shell
+microprocessor fundamentals - interrupt processing, registers, assembly code, etc.
+microcontroller fundamentals - ADC, DAC, Timers, PWM, DMA, watchdog, etc.
+Memory - NOR, NAND, SRAM, DRAM, wear levelling
+Basic protocols - I2C, SPI, UART, LIN
+Advanced protocols - SATA, PCIE, USB, CAN, MOST
+Concurrent/ parallel programming - MPI for SMP etc.
+UML - class diagram, component diagram, state diagram, sequence diagram
+Perl or Python for scripting, for e.g. to modify simple text files.
+Java and Android
+Basic electronics - schematics reading, using oscilloscope, multimeter, soldering iron
+Specialized techniques for embedded programming e.g. debouncing of switches, resistive ladder switches, rotary encoders, etc.
+software engineering - SDLC, CMMI, agile methods e.g. SCRUM, version control (ClearCase, git, svn), bug tracking (JIRA?), static code checking, Lint, unit testing, continuous integration
+build environments - makefile, cmake
+Basic FPGA/ ASIC design, basic DSP
